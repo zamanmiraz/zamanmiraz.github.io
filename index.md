@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Miraz Uz Zaman
-subtitle: An Algo-enthusiast
+subtitle: An algo-enthusiast
 key: page-about
 
 ---
