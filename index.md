@@ -6,6 +6,6 @@ key: page-about
 ---
 
 <!-- <img align="left" width="220" height="300" hspace="20" src="../images/profile.jpg"> -->
-I am a PhD candidate of Computational Analysis and at Louisiana Tech Univesity 
+I am a PhD candidate of Computational Analysis and Modeling program at Louisiana Tech Univesity.  
 
-**CV:** available upon request
+<a class="button button--primary button--rounded" href="">View</a> my CV.
