@@ -3,14 +3,14 @@ layout: article
 title: Academic and Professional Profile
 ---
 ## Education
-* **Louisiana Tech University** \
-* Ruston, LA, USA
+* **Louisiana Tech University**
+*Ruston, LA, USA*
 *PhD in Computational Analysis and Modeling (August 2023)*
-* **Louisiana Tech University** \
-* Ruston, LA, USA
+* **Louisiana Tech University**
+*Ruston, LA, USA*
 *MS in Computer Science (February'2022)*
-* **Khulna University of Engineering & Technology** \
-* Khulna, Bangladesh
+* **Khulna University of Engineering & Technology**
+*Khulna, Bangladesh*
 *B.Sc. in Electrical & Electronic Engineering (September 2014)*
 
 ## Experience
@@ -22,10 +22,10 @@ title: Academic and Professional Profile
 - **Complex Problem Solving**: I excelled in tackling complex technical challenges, utilizing innovative solutions to overcome obstacles. I applied a deep understanding of existing methods and technologies to push the boundaries of what was technically achievable.
 - **Technology Evaluation and Adoption**: A crucial aspect of my work was evaluating and adopting new technologies. I meticulously assessed the potential benefits and drawbacks of cutting-edge tools, security compliance updates, open-source software, and development pipelines. This evaluation process aimed to determine their applicability and suitability for our projects, taking into account security implications and project-specific requirements.
 - **Technical Report Writing**: I consistently produced detailed technical reports to document our research, development, and project outcomes. These reports included in-depth explanations of methodologies, results, and conclusions. Writing clear and concise technical documentation was vital to ensure that our work was well-documented and could be effectively communicated to various stakeholders.
-### **Louisiana Tech University** 
+### **Louisiana Tech University**
 *Ruston, LA, USA*
 
-*Graduate Research Assistant (December 2017 - December 2020 & September 2021 - June 2023)*
+*Graduate Research Intern (December 2017 - June 2023)*
 - **Development of Post-Quantum Hash Algorithm and PRNG**: I undertook the challenging task of developing a post-quantum Hash algorithm and Pseudo-random number generator (PRNG) using Isogeny-based Elliptic Curve Cryptography. This involved extensive research and innovation in cryptographic techniques. I not only designed these algorithms but rigorously tested them using computational algebra systems like Sage and Magma. Additionally, I analyzed the generated data using Pandas and NumPy to ensure the algorithms' robustness and security.
 - **Setup, Management, and Operation of Racked Server**: As part of my responsibilities, I established, managed, and operated a racked server infrastructure dedicated to research and computational purposes. This included configuring hardware, ensuring optimal server performance, and managing server resources effectively to support various research initiatives.
 - **Thorough Literature Survey on Isogeny-based ECC**: I conducted a comprehensive survey and review of the existing literature on Isogeny-based Elliptic Curve Cryptography. This involved researching academic papers, publications, and resources to gain a deep understanding of this specialized field and stay updated with the latest developments.
