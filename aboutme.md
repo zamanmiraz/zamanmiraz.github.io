@@ -16,7 +16,7 @@ title: Academic and Professional Profile
   * Khulna, Bangladesh
 
 ## Experience
-### **Research Scientist (July 2023 - Now)**
+### **Research Scientist**, *(July 2023 - Now)*
 
 *Inforbeyond Technology LLC**, *Louisville, KY, USA*
 - **Research and Development Expertise**: My role involved active engagement in research and development initiatives spanning Cybersecurity, Blockchain, and Machine Learning. This encompassed hands-on work, including experimentation, coding, and algorithm development. I aimed to advance our technical capabilities and understanding within these domains.
