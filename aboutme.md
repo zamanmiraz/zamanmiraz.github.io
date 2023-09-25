@@ -2,9 +2,6 @@
 layout: article
 title:
 ---
-## About Me
-- A computer science geek passionate in Software desinging
-
 ## Education
 * **Louisiana Tech University** \
 *PhD candidate in Computational Analysis and Modeling (Expected graduation date February'2023)*
