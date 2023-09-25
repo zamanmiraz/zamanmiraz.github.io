@@ -5,12 +5,15 @@ title: Academic and Professional Profile
 ## Education
 * **Louisiana Tech University**
 *Ruston, LA, USA*
+
 *PhD in Computational Analysis and Modeling (August 2023)*
 * **Louisiana Tech University**
 *Ruston, LA, USA*
+
 *MS in Computer Science (February'2022)*
 * **Khulna University of Engineering & Technology**
 *Khulna, Bangladesh*
+
 *B.Sc. in Electrical & Electronic Engineering (September 2014)*
 
 ## Experience
@@ -25,7 +28,7 @@ title: Academic and Professional Profile
 ### **Louisiana Tech University**
 *Ruston, LA, USA*
 
-*Graduate Research Intern (December 2017 - June 2023)*
+*Graduate Research and Teaching Assistant (December 2017 - June 2023)*
 - **Development of Post-Quantum Hash Algorithm and PRNG**: I undertook the challenging task of developing a post-quantum Hash algorithm and Pseudo-random number generator (PRNG) using Isogeny-based Elliptic Curve Cryptography. This involved extensive research and innovation in cryptographic techniques. I not only designed these algorithms but rigorously tested them using computational algebra systems like Sage and Magma. Additionally, I analyzed the generated data using Pandas and NumPy to ensure the algorithms' robustness and security.
 - **Setup, Management, and Operation of Racked Server**: As part of my responsibilities, I established, managed, and operated a racked server infrastructure dedicated to research and computational purposes. This included configuring hardware, ensuring optimal server performance, and managing server resources effectively to support various research initiatives.
 - **Thorough Literature Survey on Isogeny-based ECC**: I conducted a comprehensive survey and review of the existing literature on Isogeny-based Elliptic Curve Cryptography. This involved researching academic papers, publications, and resources to gain a deep understanding of this specialized field and stay updated with the latest developments.
