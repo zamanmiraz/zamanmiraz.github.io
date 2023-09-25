@@ -16,9 +16,9 @@ title: Academic and Professional Profile
   * Khulna, Bangladesh
 
 ## Experience
-### **Inforbeyond Technology LLC**, *Louisville, KY, USA*
+### **Research Scientist (July 2023 - Now)**
 
-*Research Scientist (July 2023 - Now)*
+*Inforbeyond Technology LLC**, *Louisville, KY, USA*
 - **Research and Development Expertise**: My role involved active engagement in research and development initiatives spanning Cybersecurity, Blockchain, and Machine Learning. This encompassed hands-on work, including experimentation, coding, and algorithm development. I aimed to advance our technical capabilities and understanding within these domains.
 - **Complex Problem Solving**: I excelled in tackling complex technical challenges, utilizing innovative solutions to overcome obstacles. I applied a deep understanding of existing methods and technologies to push the boundaries of what was technically achievable.
 - **Technology Evaluation and Adoption**: A crucial aspect of my work was evaluating and adopting new technologies. I meticulously assessed the potential benefits and drawbacks of cutting-edge tools, security compliance updates, open-source software, and development pipelines. This evaluation process aimed to determine their applicability and suitability for our projects, taking into account security implications and project-specific requirements.
