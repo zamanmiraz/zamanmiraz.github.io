@@ -1,18 +1,24 @@
 ---
 layout: article
-<!-- title: -->
+title: Academic and Professional Profile
 ---
 ## Education
 * **Louisiana Tech University** \
-*PhD candidate in Computational Analysis and Modeling (Expected graduation date February'2023)*
+*PhD candidate in Computational Analysis and Modeling (August'2023)*
 * **Louisiana Tech University** \
 *MS in Computer Science (February'2022)*
 * **Khulna University of Engineering & Technology** \
 *B.Sc. in Electrical & Electronic Engineering (September'2014)*
 
 ## Experience
+### **Inforbeyond Technology LLC**
+*Research Scientist (July'2021 - Now)*
+- Spearheading research and development initiatives in the domains of Cybersecurity, Blockchain, and Machine Learning.
+- Analyzing complex technical challenges and innovating new solutions while rigorously comparing these innovations with existing methods.
+- Orchestrating informed decision-making regarding the adoption of cutting-edge technologies, updated security compliance's open-source software, and development pipelines to evaluate their potential advantages and disadvantages in the project context.
+- Crafting compelling PowerPoint presentations to effectively communicate project outcomes.
 ### **Louisiana Tech University** 
-*Graduate Assistant (December'2017 - December'2020 & September'2021 - Now)*
+*Graduate Assistant (December'2017 - December'2020 & September'2021 - June'2023)*
 - Develop a post-quantum Hash algorithm/Pseudo-random number generator using Isogeny based Elliptic Curve Cryptography. Design and test the algorithm using the computational algebra system Sage, and Magma. Analyze
 the data using Pandas, NumPy.
 - Set up, Manage, and Operate Racked server for research and computational purpose.
