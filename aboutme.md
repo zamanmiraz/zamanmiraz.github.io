@@ -16,16 +16,14 @@ title: Academic and Professional Profile
   * Khulna, Bangladesh
 
 ## Experience
-### **Inforbeyond Technology LLC**
-*Louisville, KY, USA*
+### **Inforbeyond Technology LLC**, *Louisville, KY, USA*
 
 *Research Scientist (July 2023 - Now)*
 - **Research and Development Expertise**: My role involved active engagement in research and development initiatives spanning Cybersecurity, Blockchain, and Machine Learning. This encompassed hands-on work, including experimentation, coding, and algorithm development. I aimed to advance our technical capabilities and understanding within these domains.
 - **Complex Problem Solving**: I excelled in tackling complex technical challenges, utilizing innovative solutions to overcome obstacles. I applied a deep understanding of existing methods and technologies to push the boundaries of what was technically achievable.
 - **Technology Evaluation and Adoption**: A crucial aspect of my work was evaluating and adopting new technologies. I meticulously assessed the potential benefits and drawbacks of cutting-edge tools, security compliance updates, open-source software, and development pipelines. This evaluation process aimed to determine their applicability and suitability for our projects, taking into account security implications and project-specific requirements.
 - **Technical Report Writing**: I consistently produced detailed technical reports to document our research, development, and project outcomes. These reports included in-depth explanations of methodologies, results, and conclusions. Writing clear and concise technical documentation was vital to ensure that our work was well-documented and could be effectively communicated to various stakeholders.
-### **Louisiana Tech University**
-*Ruston, LA, USA*
+### **Louisiana Tech University**, *Ruston, LA, USA*
 
 *Graduate Research and Teaching Assistant (December 2017 - June 2023)*
 - **Development of Post-Quantum Hash Algorithm and PRNG**: I undertook the challenging task of developing a post-quantum Hash algorithm and Pseudo-random number generator (PRNG) using Isogeny-based Elliptic Curve Cryptography. This involved extensive research and innovation in cryptographic techniques. I not only designed these algorithms but rigorously tested them using computational algebra systems like Sage and Magma. Additionally, I analyzed the generated data using Pandas and NumPy to ensure the algorithms' robustness and security.
@@ -36,8 +34,7 @@ title: Academic and Professional Profile
 - **Student Evaluation and Grading**: In addition to research and development tasks, I took on the role of evaluating and grading student performance. This included both graduate and undergraduate students, and I meticulously tabulated the results to provide meaningful feedback and track their progress.
 - **Coordination of Student Meetings and Tutorials**: As part of fostering a conducive learning environment, I coordinated meetings with students and conducted tutorial sessions. These tutorials were aimed at explaining lecture content, clarifying doubts, and assisting students with their homework assignments, ensuring their academic success.
 
-### **Infobeyond Technology LLC**
-*Louisville, KY, USA*
+### **Infobeyond Technology LLC**, *Louisville, KY, USA*
 
 *Graduate Research Intern (January 2021 - September 2021)*
 - **Designing and Implementing Intel SGX-Based Applications**: I was responsible for conceptualizing and creating applications leveraging Intel Software Guard Extensions (SGX) technology. These applications were developed using the Intel(R) SGX Software Development Kit (SDK) and were optimized for security and data privacy. The development environment included SCONE Docker and OCCLUM OS, which allowed for secure and isolated execution. My role extended to designing, coding, and thoroughly testing these applications to ensure their reliability and security.
