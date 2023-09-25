@@ -13,7 +13,7 @@ title: Academic and Professional Profile
 
 * **B.Sc. in Electrical & Electronic Engineering**, *(September 2014)*
   * Khulna University of Engineering & Technology
-  * Khulna, Bangladesh*
+  * Khulna, Bangladesh
 
 ## Experience
 ### **Inforbeyond Technology LLC**
