@@ -3,10 +3,10 @@ layout: article
 title: Academic and Professional Profile
 ---
 ## Education
-* **PhD in Computational Analysis and Modeling**
-  * Louisiana Tech University, Ruston, LA, USA*
+* **PhD in Computational Analysis and Modeling** *August 2023*
+  * Louisiana Tech University
+  * Ruston, LA, USA
 
-*PhD in Computational Analysis and Modeling (August 2023)*
 * **Louisiana Tech University**
 *Ruston, LA, USA*
 
