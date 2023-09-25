@@ -1,6 +1,6 @@
 ---
 layout: article
-title:
+<!-- title: -->
 ---
 ## Education
 * **Louisiana Tech University** \
