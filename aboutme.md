@@ -7,7 +7,7 @@ title: Academic and Professional Profile
   * Louisiana Tech University
   * Ruston, LA, USA
 
-* **MS in Computer Science**, *(February'2022)*
+* **MS in Computer Science**, *(February 2022)*
   * Louisiana Tech University
   * Ruston, LA, USA*
 
