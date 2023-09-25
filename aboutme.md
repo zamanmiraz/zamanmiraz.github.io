@@ -3,18 +3,17 @@ layout: article
 title: Academic and Professional Profile
 ---
 ## Education
-* **PhD in Computational Analysis and Modeling** *August 2023*
+* **PhD in Computational Analysis and Modeling**, *(August 2023)*
   * Louisiana Tech University
   * Ruston, LA, USA
 
-* **Louisiana Tech University**
-*Ruston, LA, USA*
+* **MS in Computer Science**, *(February'2022)*
+  * Louisiana Tech University
+  * Ruston, LA, USA*
 
-*MS in Computer Science (February'2022)*
-* **Khulna University of Engineering & Technology**
-*Khulna, Bangladesh*
-
-*B.Sc. in Electrical & Electronic Engineering (September 2014)*
+* **B.Sc. in Electrical & Electronic Engineering**, *(September 2014)*
+  * Khulna University of Engineering & Technology
+  * Khulna, Bangladesh*
 
 ## Experience
 ### **Inforbeyond Technology LLC**
