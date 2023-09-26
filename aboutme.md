@@ -1,6 +1,14 @@
 ---
 layout: article
 title: Academic and Professional Profile
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    toc_collapsed: true
+    toc_depth: 3
+    number_sections: true
+    theme: lumen
 ---
 ## Education
 * **PhD in Computational Analysis and Modeling**, *(August 2023)*
