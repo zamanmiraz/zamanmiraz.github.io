@@ -13,8 +13,10 @@ header:
 docs-en:
   - title:      Start
     children:
+      # - title:  Quick Start
+      #   url:    /docs/en/quick-start
       - title:  Quick Start
-        url:    /docs/en/quick-start
+        url:    https://github.com/zamanmiraz/zamanmiraz.github.io/blob/master/aboutme.md#education
       - title:  Structure
         url:    /docs/en/structure
   - title:      Customization
