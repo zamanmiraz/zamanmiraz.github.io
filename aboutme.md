@@ -5,7 +5,7 @@ title: Academic and Professional Profile
 ## Education
 * **PhD in Computational Analysis and Modeling**, *(August 2023)*
   * Louisiana Tech University, Ruston, LA, USA
-  * **Dissertation:** <a id="raw-url" href="https://github.com/zamanmiraz/zamanmiraz.github.io/blob/master/screenshot.jpg">ADVANCING AUTONOMY AND SECURITY IN FUTURECOMPUTING SYSTEMS WITH BLOCKCHAIN AND SUPERSINGULAR ISOGENY</a>
+  * **Dissertation:** <a id="raw-url" href="https://github.com/zamanmiraz/zamanmiraz.github.io/blob/master/thesis/miraz_dissertation_final.pdf">ADVANCING AUTONOMY AND SECURITY IN FUTURECOMPUTING SYSTEMS WITH BLOCKCHAIN AND SUPERSINGULAR ISOGENY</a>
 * **MS in Computer Science**, *(February 2022)*
   * Louisiana Tech University, Ruston, LA, USA
 * **B.Sc. in Electrical & Electronic Engineering**, *(September 2014)*
