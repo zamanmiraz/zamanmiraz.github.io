@@ -28,7 +28,8 @@ output:
 - **Complex Problem Solving**: I excelled in tackling complex technical challenges, utilizing innovative solutions to overcome obstacles. I applied a deep understanding of existing methods and technologies to push the boundaries of what was technically achievable.
 - **Technology Evaluation and Adoption**: A crucial aspect of my work was evaluating and adopting new technologies. I meticulously assessed the potential benefits and drawbacks of cutting-edge tools, security compliance updates, open-source software, and development pipelines. This evaluation process aimed to determine their applicability and suitability for our projects, taking into account security implications and project-specific requirements.
 - **Technical Report Writing**: I consistently produced detailed technical reports to document our research, development, and project outcomes. These reports included in-depth explanations of methodologies, results, and conclusions. Writing clear and concise technical documentation was vital to ensure that our work was well-documented and could be effectively communicated to various stakeholders.
-### **Graduate Assistant**, *(December 2017 - June 2023)*
+
+### **Research Scientist**, *(July 2023 - Now)*
 
 *Louisiana Tech University*, *Ruston, LA, USA*
 - **Development of Post-Quantum Hash Algorithm and PRNG**: I undertook the challenging task of developing a post-quantum Hash algorithm and Pseudo-random number generator (PRNG) using Isogeny-based Elliptic Curve Cryptography. This involved extensive research and innovation in cryptographic techniques. I not only designed these algorithms but rigorously tested them using computational algebra systems like Sage and Magma. Additionally, I analyzed the generated data using Pandas and NumPy to ensure the algorithms' robustness and security.
@@ -39,9 +40,9 @@ output:
 - **Student Evaluation and Grading**: In addition to research and development tasks, I took on the role of evaluating and grading student performance. This included both graduate and undergraduate students, and I meticulously tabulated the results to provide meaningful feedback and track their progress.
 - **Coordination of Student Meetings and Tutorials**: As part of fostering a conducive learning environment, I coordinated meetings with students and conducted tutorial sessions. These tutorials were aimed at explaining lecture content, clarifying doubts, and assisting students with their homework assignments, ensuring their academic success.
 
-### **Infobeyond Technology LLC**, *Louisville, KY, USA*
+###**Graduate Research Intern**, *(January 2021 - September 2021)*
 
-*Graduate Research Intern (January 2021 - September 2021)*
+*Infobeyond Technology LLC, *Louisville, KY, USA* 
 - **Designing and Implementing Intel SGX-Based Applications**: I was responsible for conceptualizing and creating applications leveraging Intel Software Guard Extensions (SGX) technology. These applications were developed using the Intel(R) SGX Software Development Kit (SDK) and were optimized for security and data privacy. The development environment included SCONE Docker and OCCLUM OS, which allowed for secure and isolated execution. My role extended to designing, coding, and thoroughly testing these applications to ensure their reliability and security.
 - **Performance Analysis of SGX-Based Applications**: Following the development phase, I conducted in-depth performance analysis of these SGX-based applications. This analysis involved assessing how the applications behaved in various computing environments and under different conditions. By scrutinizing their performance metrics, I aimed to identify areas for improvement and optimization.
 - **Implementing Hyperledger Fabric Blockchain in SGX Environment**: As part of my responsibilities, I implemented the Hyperledger Fabric Blockchain framework within the secure enclave provided by Intel SGX. This integration was designed to create a robust and distributed architecture tailored for the storage and delivery of grid data. Docker Containers were utilized to ensure portability and scalability, making the solution well-suited for real-world applications in data management and security.
