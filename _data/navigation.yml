@@ -10,18 +10,29 @@
 #     url:        /research.html
 #   - title:      Blog
 #     url:        /archive.html
+# docs-en:
+#   - title:      Start
+#     children:
+#       - title:  Quick Start
+#         url:    /docs/en/quick-start
+#       - title:  Structure
+#         url:    /docs/en/structure
+#   - title:      Customization
+#     children:
+#       - title:  Configuration
+#         url:    /docs/en/configuration
+#       - title:  Navigation
+#         url:    /docs/en/navigation
+
 docs-en:
-  - title:      Start
+  - title:      About Me
+    url:        /aboutme.html
     children:
-      # - title:  Quick Start
-      #   url:    /docs/en/quick-start
-      - title:  Quick Start
-        url:    https://github.com/zamanmiraz/zamanmiraz.github.io/blob/master/aboutme.md#education
-      - title:  Structure
-        url:    /docs/en/structure
-  - title:      Customization
-    children:
-      - title:  Configuration
+      - title:  Education
         url:    /docs/en/configuration
-      - title:  Navigation
-        url:    /docs/en/navigation
+  - title:      Projects
+    url:        /archive.html
+  - title:      Research
+    url:        /research.html
+  - title:      Blog
+    url:        /archive.html
