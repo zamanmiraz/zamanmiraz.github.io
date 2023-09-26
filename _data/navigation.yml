@@ -1,6 +1,9 @@
 header:
   - title:      About Me
     url:        /aboutme.html
+    children:
+      - title:  Education
+        url:    https://github.com/zamanmiraz/zamanmiraz.github.io/blob/master/aboutme.md#education
   - title:      Projects
     url:        /archive.html
   - title:      Research
