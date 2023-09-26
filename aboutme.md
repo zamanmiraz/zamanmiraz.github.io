@@ -11,10 +11,10 @@ output:
     theme: lumen
 ---
 ## Education
-* **PhD in Computational Analysis and Modeling**, *(August 2023)*
+* **Ph.D. in Computational Analysis and Modeling**, *(August 2023)*
   * Louisiana Tech University, Ruston, LA, USA
   * **Dissertation:** <a id="raw-url" href="https://github.com/zamanmiraz/zamanmiraz.github.io/blob/master/thesis/miraz_dissertation_final.pdf">Advancing Autonomy and Security in Future Computing Systems With Blockchain and Supersingular Isogeny</a>
-* **MS in Computer Science**, *(February 2022)*
+* **M.S. in Computer Science**, *(February 2022)*
   * Louisiana Tech University, Ruston, LA, USA
 * **B.Sc. in Electrical & Electronic Engineering**, *(September 2014)*
   * Khulna University of Engineering & Technology, Khulna, Bangladesh
