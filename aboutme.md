@@ -40,7 +40,7 @@ output:
 - **Student Evaluation and Grading**: In addition to research and development tasks, I took on the role of evaluating and grading student performance. This included both graduate and undergraduate students, and I meticulously tabulated the results to provide meaningful feedback and track their progress.
 - **Coordination of Student Meetings and Tutorials**: As part of fostering a conducive learning environment, I coordinated meetings with students and conducted tutorial sessions. These tutorials were aimed at explaining lecture content, clarifying doubts, and assisting students with their homework assignments, ensuring their academic success.
 
-###**Graduate Research Intern**, *(January 2021 - September 2021)*
+### **Graduate Research Intern**, *(January 2021 - September 2021)*
 
 *Infobeyond Technology LLC*, *Louisville, KY, USA* 
 - **Designing and Implementing Intel SGX-Based Applications**: I was responsible for conceptualizing and creating applications leveraging Intel Software Guard Extensions (SGX) technology. These applications were developed using the Intel(R) SGX Software Development Kit (SDK) and were optimized for security and data privacy. The development environment included SCONE Docker and OCCLUM OS, which allowed for secure and isolated execution. My role extended to designing, coding, and thoroughly testing these applications to ensure their reliability and security.
