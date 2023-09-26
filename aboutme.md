@@ -29,7 +29,7 @@ output:
 - **Technology Evaluation and Adoption**: A crucial aspect of my work was evaluating and adopting new technologies. I meticulously assessed the potential benefits and drawbacks of cutting-edge tools, security compliance updates, open-source software, and development pipelines. This evaluation process aimed to determine their applicability and suitability for our projects, taking into account security implications and project-specific requirements.
 - **Technical Report Writing**: I consistently produced detailed technical reports to document our research, development, and project outcomes. These reports included in-depth explanations of methodologies, results, and conclusions. Writing clear and concise technical documentation was vital to ensure that our work was well-documented and could be effectively communicated to various stakeholders.
 
-### **Research Scientist**, *(July 2023 - Now)*
+### **Graduate Assistant**, *(July 2023 - Now)*
 
 *Louisiana Tech University*, *Ruston, LA, USA*
 - **Development of Post-Quantum Hash Algorithm and PRNG**: I undertook the challenging task of developing a post-quantum Hash algorithm and Pseudo-random number generator (PRNG) using Isogeny-based Elliptic Curve Cryptography. This involved extensive research and innovation in cryptographic techniques. I not only designed these algorithms but rigorously tested them using computational algebra systems like Sage and Magma. Additionally, I analyzed the generated data using Pandas and NumPy to ensure the algorithms' robustness and security.
