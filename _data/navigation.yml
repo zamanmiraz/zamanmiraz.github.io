@@ -1,15 +1,15 @@
-header:
-  - title:      About Me
-    url:        /aboutme.html
-    children:
-      - title:  Education
-        url:    https://github.com/zamanmiraz/zamanmiraz.github.io/blob/master/aboutme.md#education
-  - title:      Projects
-    url:        /archive.html
-  - title:      Research
-    url:        /research.html
-  - title:      Blog
-    url:        /archive.html
+# header:
+#   - title:      About Me
+#     url:        /aboutme.html
+#     children:
+#       - title:  Education
+#         url:    https://github.com/zamanmiraz/zamanmiraz.github.io/blob/master/aboutme.md#education
+#   - title:      Projects
+#     url:        /archive.html
+#   - title:      Research
+#     url:        /research.html
+#   - title:      Blog
+#     url:        /archive.html
 docs-en:
   - title:      Start
     children:
