@@ -1,6 +1,8 @@
 ---
 layout: article
-title: Academic and Professional Profile
+title: Professional Profile
+sidebar:
+  nav: docs-en
 ---
 ## Experience
 ### **Research Scientist**, *(July 2023 - Now)*
