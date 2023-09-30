@@ -31,9 +31,14 @@ docs-en:
         url:    /education.html
       - title:  Experience
         url:    /experience.html
-  - title:      Projects
-    url:        /archive.html
-  - title:      Research
-    url:        /research.html
+  - title:      Research & Project
+    children:
+      - title:  PQ Cryptography
+        url:    /research.html
+      - title:  Blockchain Consensus
+        url:    /blockchain.html
   - title:      Blog
     url:        /archive.html
+  - title:      News
+    url:        /archive.html
+
