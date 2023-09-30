@@ -26,10 +26,11 @@
 
 docs-en:
   - title:      About Me
-    url:        /aboutme.html
     children:
       - title:  Education
-        url:    /docs/en/configuration
+        url:    /education.html
+      - title:  Experience
+        url:    /experience.html
   - title:      Projects
     url:        /archive.html
   - title:      Research
