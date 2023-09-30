@@ -35,7 +35,7 @@ docs-en:
     children:
       - title:  PQ Cryptography
         url:    /PQC.html
-      - title:  Blockchain Consensus
+      - title:  Blockchain
         url:    /blockchain.html
   - title:      Blog
     url:        /archive.html
