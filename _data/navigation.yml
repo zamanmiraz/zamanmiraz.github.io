@@ -34,7 +34,7 @@ docs-en:
   - title:      Research & Project
     children:
       - title:  PQ Cryptography
-        url:    /research.html
+        url:    /PQC.html
       - title:  Blockchain Consensus
         url:    /blockchain.html
   - title:      Blog
