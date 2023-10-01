@@ -4,8 +4,8 @@ title: Blockchain
 header:
   theme: dark
   background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
-sidebar:
-  nav: docs-en
+aside:
+  toc: true
 ---
 ## Supersingular Isogney
 * **Supersingular Isogeny-Based Single Compression Cryptographic Hash Function**: Accepted for presentation at the *2023 IEEE Global Communications Conference: Communication & Information Systems Security*, this paper introduces an innovative single compression cryptographic hash function. It builds upon the foundation of supersingular isogenies, involving traversal in the supersingular isogeny (2-isogeny) graph and point mapping under isogeny. The proposed function enhances security by concealing the curve's j-invariant, challenging attackers to identify the curve from its X-coordinate and solve the supersingular isogeny problem. It offers significantly improved preimage resistance, ensures collision-free properties, and efficiently processes bits from multiple message blocks in a single step, reducing computational complexity. Additionally, it organically modifies the message to resist parallelization attempts and provides a comprehensive comparative analysis against CGL and CGL-like hash functions.
