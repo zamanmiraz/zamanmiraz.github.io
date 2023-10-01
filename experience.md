@@ -1,6 +1,8 @@
 ---
 layout: article
 title: Professional Profile
+aside:
+  toc: true
 sidebar:
   nav: docs-en
 ---
