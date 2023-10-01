@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: article
 title: Miraz Uz Zaman, PhD
 header:
   theme: dark
