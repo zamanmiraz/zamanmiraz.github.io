@@ -1,5 +1,15 @@
 ---
 layout: article
+title: Page - Article Header Image (Customized Header Background)
+header:
+  theme: dark
+  background: '#333'
+article_header:
+  type: cover
+  image:
+    src: /docs/assets/images/cover2.jpg
+---
+layout: article
 title: Miraz Uz Zaman, PhD
 header:
   theme: dark
@@ -10,7 +20,6 @@ article_header:
     src: /docs/assets/images/cover2.jpg 
 sidebar:
   nav: docs-en
----
 /images/_880f897c-9206-4cfc-af99-3e49dd578bfc.jpeg
 Welcome to my portfolio, where I bring a wealth of experience and expertise in cryptography, security, and cutting-edge technology to the table.
   * **Research Expertise**: Experienced in Supersingular Isogeny Cryptography, Blockchain Consensus Mechanisms, Hash-Based Authentication, and Intel SGX.
