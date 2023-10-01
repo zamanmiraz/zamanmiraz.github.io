@@ -1,6 +1,8 @@
 ---
 layout: article
 title: Academic Profile
+aside:
+  toc: true
 sidebar:
   nav: docs-en
 ---
