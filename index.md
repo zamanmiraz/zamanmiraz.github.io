@@ -1,7 +1,6 @@
 ---
 layout: article
 title: Page - Article Header Overlay Background Fill
-permalink: /page/article-header-overlay-background-fill.html
 key: page-article-header-overlay-background-fill
 cover: /docs/assets/images/axure/page-article-header-overlay-background-fill.jpg
 article_header:
