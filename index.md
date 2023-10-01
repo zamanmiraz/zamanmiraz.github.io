@@ -2,13 +2,14 @@
 layout: article
 title: Page - Article Header Overlay Background Fill
 key: page-article-header-overlay-background-fill
-cover: /docs/assets/images/axure/page-article-header-overlay-background-fill.jpg
+cover: images/_880f897c-9206-4cfc-af99-3e49dd578bfc.jpeg
 article_header:
   type: overlay
   theme: dark
   background_color: '#123'
   background_image: false
 ---
+/docs/assets/images/axure/page-article-header-overlay-background-fill.jpg
 layout: article
 title: Miraz Uz Zaman, PhD
 header:
