@@ -1,14 +1,13 @@
 ---
 layout: article
-title: Page - Article Header Overlay Background Fill
-key: page-article-header-overlay-background-fill
+title: Page - Article Header Overlay Background Image
 article_header:
   type: overlay
   theme: dark
-  background_color: '#123'
+  background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: images/_880f897c-9206-4cfc-af99-3e49dd578bfc.jpeg
+    src: /images/_880f897c-9206-4cfc-af99-3e49dd578bfc.jpeg
 ---
 /docs/assets/images/axure/page-article-header-overlay-background-fill.jpg
 layout: article
