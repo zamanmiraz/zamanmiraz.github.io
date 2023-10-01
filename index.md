@@ -7,7 +7,7 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /images/_880f897c-9206-4cfc-af99-3e49dd578bfc.jpeg
+    src: /docs/assets/images/cover3.jpg
 ---
 /docs/assets/images/axure/page-article-header-overlay-background-fill.jpg
 layout: article
