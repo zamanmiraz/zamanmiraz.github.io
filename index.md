@@ -1,12 +1,16 @@
 ---
 layout: landing
 title: Miraz Uz Zaman, PhD
-key: page-about
+header:
+  theme: dark
+  background: '#333'
+article_header:
+  type: cover
+  image:
+    src: /images/_880f897c-9206-4cfc-af99-3e49dd578bfc.jpeg
 sidebar:
   nav: docs-en
 ---
-![image info](/images/profile.jpeg)
-
 Welcome to my portfolio, where I bring a wealth of experience and expertise in cryptography, security, and cutting-edge technology to the table.
   * **Research Expertise**: Experienced in Supersingular Isogeny Cryptography, Blockchain Consensus Mechanisms, Hash-Based Authentication, and Intel SGX.
   * **Programming Skills**: Proficient in Python, Java, Shell Scripting, and Matlab.
