@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: landing
 title: Miraz Uz Zaman, PhD
 key: page-about
 sidebar:
