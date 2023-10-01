@@ -6,18 +6,15 @@ aside:
 sidebar:
   nav: docs-en
 ---
-## Experience
-### **Research Scientist**, *(July 2023 - Now)*
-
-*Infobeyond Technology LLC*, *Louisville, KY, USA*
+## **Research Scientist** 
+*Infobeyond Technology LLC*, *Louisville, KY, USA* *(July 2023 - Now)*
 - **Research and Development Expertise**: My role involved active engagement in research and development initiatives spanning Cybersecurity, Blockchain, and Machine Learning. This encompassed hands-on work, including experimentation, coding, and algorithm development. I aimed to advance our technical capabilities and understanding within these domains.
 - **Complex Problem Solving**: I excelled in tackling complex technical challenges, utilizing innovative solutions to overcome obstacles. I applied a deep understanding of existing methods and technologies to push the boundaries of what was technically achievable.
 - **Technology Evaluation and Adoption**: A crucial aspect of my work was evaluating and adopting new technologies. I meticulously assessed the potential benefits and drawbacks of cutting-edge tools, security compliance updates, open-source software, and development pipelines. This evaluation process aimed to determine their applicability and suitability for our projects, taking into account security implications and project-specific requirements.
 - **Technical Report Writing**: I consistently produced detailed technical reports to document our research, development, and project outcomes. These reports included in-depth explanations of methodologies, results, and conclusions. Writing clear and concise technical documentation was vital to ensure that our work was well-documented and could be effectively communicated to various stakeholders.
 
-### **Graduate Assistant**, *(July 2023 - Now)*
-
-*Louisiana Tech University*, *Ruston, LA, USA*
+## **Graduate Assistant**
+*Louisiana Tech University*, *Ruston, LA, USA* *(July 2023 - Now)*
 - **Development of Post-Quantum Hash Algorithm and PRNG**: I undertook the challenging task of developing a post-quantum Hash algorithm and Pseudo-random number generator (PRNG) using Isogeny-based Elliptic Curve Cryptography. This involved extensive research and innovation in cryptographic techniques. I not only designed these algorithms but rigorously tested them using computational algebra systems like Sage and Magma. Additionally, I analyzed the generated data using Pandas and NumPy to ensure the algorithms' robustness and security.
 - **Setup, Management, and Operation of Racked Server**: As part of my responsibilities, I established, managed, and operated a racked server infrastructure dedicated to research and computational purposes. This included configuring hardware, ensuring optimal server performance, and managing server resources effectively to support various research initiatives.
 - **Thorough Literature Survey on Isogeny-based ECC**: I conducted a comprehensive survey and review of the existing literature on Isogeny-based Elliptic Curve Cryptography. This involved researching academic papers, publications, and resources to gain a deep understanding of this specialized field and stay updated with the latest developments.
@@ -26,18 +23,16 @@ sidebar:
 - **Student Evaluation and Grading**: In addition to research and development tasks, I took on the role of evaluating and grading student performance. This included both graduate and undergraduate students, and I meticulously tabulated the results to provide meaningful feedback and track their progress.
 - **Coordination of Student Meetings and Tutorials**: As part of fostering a conducive learning environment, I coordinated meetings with students and conducted tutorial sessions. These tutorials were aimed at explaining lecture content, clarifying doubts, and assisting students with their homework assignments, ensuring their academic success.
 
-### **Graduate Research Intern**, *(January 2021 - September 2021)*
-
-*Infobeyond Technology LLC*, *Louisville, KY, USA* 
+## **Graduate Research Intern**
+*Infobeyond Technology LLC*, *Louisville, KY, USA* *(January 2021 - September 2021)*
 - **Designing and Implementing Intel SGX-Based Applications**: I was responsible for conceptualizing and creating applications leveraging Intel Software Guard Extensions (SGX) technology. These applications were developed using the Intel(R) SGX Software Development Kit (SDK) and were optimized for security and data privacy. The development environment included SCONE Docker and OCCLUM OS, which allowed for secure and isolated execution. My role extended to designing, coding, and thoroughly testing these applications to ensure their reliability and security.
 - **Performance Analysis of SGX-Based Applications**: Following the development phase, I conducted in-depth performance analysis of these SGX-based applications. This analysis involved assessing how the applications behaved in various computing environments and under different conditions. By scrutinizing their performance metrics, I aimed to identify areas for improvement and optimization.
 - **Implementing Hyperledger Fabric Blockchain in SGX Environment**: As part of my responsibilities, I implemented the Hyperledger Fabric Blockchain framework within the secure enclave provided by Intel SGX. This integration was designed to create a robust and distributed architecture tailored for the storage and delivery of grid data. Docker Containers were utilized to ensure portability and scalability, making the solution well-suited for real-world applications in data management and security.
 - **Designing and Implementing SGX-Based API**: I was tasked with designing and developing application programming interfaces (APIs) specifically tailored for SGX-based applications. This involved using the Java Spring REST framework to create secure and efficient communication interfaces that would enable seamless interaction with the SGX-enabled services and applications.
 - **Research and Documentation on SGX-Based Applications**: My role also encompassed extensive research to identify potential applications that could benefit from Intel SGX technology. This research included exploring use cases, assessing security requirements, and evaluating the feasibility of SGX integration. Additionally, I documented my findings and recommendations, providing valuable insights for future SGX-based projects and initiatives.
 
-### **Lecturer, Department of Electrical & Electronic Engineering**, *(February 2015 - July 2017)*
-
-*Prime University*, *Dhaka, Bangladesh*
+## **Lecturer, Department of Electrical & Electronic Engineering**
+*Prime University*, *Dhaka, Bangladesh* *(February 2015 - July 2017)*
 - **Course Material Development**: I took on the responsibility of designing and developing comprehensive course materials for multiple subjects. Specifically, I created structured curriculum content for courses like "MATLAB Programming for Beginners" and "Electrical Circuit Design." This process involved carefully outlining the course objectives, organizing the syllabus, and creating engaging learning resources such as lecture notes, assignments, and supplementary materials. The aim was to provide students with a clear and effective learning path to grasp these subjects.
 - **Laboratory Facilitation**: In addition to course material development, I actively facilitated laboratory sessions for the aforementioned courses. During these sessions, I guided students through practical exercises and experiments related to MATLAB programming and electrical circuit design. I ensured that students had a hands-on learning experience, providing them with the opportunity to apply theoretical concepts to real-world scenarios.
 - **Assessment Administration**: As part of my role, I administered regular quizzes and examinations to evaluate students' understanding of the course content. These assessments were thoughtfully designed to cover a range of topics and gauge the depth of comprehension. Following the assessments, I meticulously assessed and recorded students' exam scores, maintaining accurate records of their academic progress.
