@@ -7,7 +7,7 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: _880f897c-9206-4cfc-af99-3e49dd578bfc.jpeg
+    src: security.jpg
 ---
 Welcome to my portfolio, where I bring a wealth of experience and expertise in cryptography, security, and cutting-edge technology to the table.
   * **Research Expertise**: Experienced in Supersingular Isogeny Cryptography, Blockchain Consensus Mechanisms, Hash-Based Authentication, and Intel SGX.
