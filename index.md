@@ -7,7 +7,7 @@ sidebar:
 ---
 <img class="image image--md" src="images/_880f897c-9206-4cfc-af99-3e49dd578bfc.jpeg"/>
 
-![image info](images/_880f897c-9206-4cfc-af99-3e49dd578bfc.jpeg)
+![image info](/images/_880f897c-9206-4cfc-af99-3e49dd578bfc.jpeg)
 
 Welcome to my portfolio, where I bring a wealth of experience and expertise in cryptography, security, and cutting-edge technology to the table.
   * **Research Expertise**: Experienced in Supersingular Isogeny Cryptography, Blockchain Consensus Mechanisms, Hash-Based Authentication, and Intel SGX.
