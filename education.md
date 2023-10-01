@@ -1,10 +1,11 @@
 ---
 layout: article
 title: Academic Profile
+header:
+  theme: dark
+  background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
 aside:
   toc: true
-sidebar:
-  nav: docs-en
 ---
 ## Education
 * **Ph.D. in Computational Analysis and Modeling**, *(August 2023)*
