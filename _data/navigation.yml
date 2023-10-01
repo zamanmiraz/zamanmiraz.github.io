@@ -1,15 +1,14 @@
-# header:
-#   - title:      About Me
-#     url:        /aboutme.html
-#     children:
-#       - title:  Education
-#         url:    https://github.com/zamanmiraz/zamanmiraz.github.io/blob/master/aboutme.md#education
-#   - title:      Projects
-#     url:        /archive.html
-#   - title:      Research
-#     url:        /research.html
-#   - title:      Blog
-#     url:        /archive.html
+header:
+  - title:      Education
+    url:        /education.html
+  - title:      Experience
+    url:        /experience.html
+  - title:      Research
+    url:        /archive.html
+  - title:      Blog
+    url:        /archive.html
+  - title:      News
+    url:        /archive.html
 # docs-en:
 #   - title:      Start
 #     children:
@@ -24,21 +23,21 @@
 #       - title:  Navigation
 #         url:    /docs/en/navigation
 
-docs-en:
-  - title:      About Me
-    children:
-      - title:  Education
-        url:    /education.html
-      - title:  Experience
-        url:    /experience.html
-  - title:      Research & Project
-    children:
-      - title:  PQ Cryptography
-        url:    /PQC.html
-      - title:  Blockchain
-        url:    /blockchain.html
-  - title:      Blog
-    url:        /archive.html
-  - title:      News
-    url:        /archive.html
+# docs-en:
+#   - title:      About Me
+#     children:
+#       - title:  Education
+#         url:    /education.html
+#       - title:  Experience
+#         url:    /experience.html
+#   - title:      Research & Project
+#     children:
+#       - title:  PQ Cryptography
+#         url:    /PQC.html
+#       - title:  Blockchain
+#         url:    /blockchain.html
+#   - title:      Blog
+#     url:        /archive.html
+#   - title:      News
+#     url:        /archive.html
 
