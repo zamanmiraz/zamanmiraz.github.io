@@ -8,7 +8,7 @@ header:
   - title:      Blog
     url:        /archive.html
   - title:      News
-    url:        /archive.html
+    url:        /news.html
 # docs-en:
 #   - title:      Start
 #     children:
