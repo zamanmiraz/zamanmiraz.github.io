@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Experience and Expertise in Cryptography, Security, and Cutting-Edge Technology
+title: Experience and Expertise in Algorithm Development, Cryptography, and Cutting-Edge Technology
 header:
   theme: dark
   background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
@@ -12,7 +12,7 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: security.jpg
 ---
-Welcome to my portfolio, where I bring a wealth of experience and expertise in cryptography, security, and cutting-edge technology to the table.
+Welcome to my portfolio, where I bring a wealth of experience and expertise in algorithm, cryptography, security, and cutting-edge technology to the table.
   * **Research Expertise**: Experienced in Supersingular Isogeny Cryptography, Blockchain Consensus Mechanisms, Hash-Based Authentication, and Intel SGX.
   * **Programming Skills**: Proficient in Python, Java, Shell Scripting, and Matlab.
   * **Cybersecurity Proficiency**: Skilled in cybersecurity practices and tools like hping3, nmap, and Wireshark.
